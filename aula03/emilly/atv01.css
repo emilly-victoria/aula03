@@ -1,0 +1,33 @@
+.box1{
+    background-color: #8a2be2;
+    height: 100px;
+    width: 1366px;
+    padding-top: 25px;
+}
+#box11{
+    background-color: aquamarine;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 550px;
+    margin-right: 50px;
+
+}
+.box2{
+    background-color: darkslateblue;
+    height: 500px;
+    width: 1366px;
+}
+.box3{
+    background-color: rgba(187, 109, 218, 1);
+    height: 500px;
+    width: 1366px;
+}
+.box4{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 1366px;
+    text-align: center;
+    font-size: 60px;
+}
